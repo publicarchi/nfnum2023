@@ -1918,33 +1918,6 @@ Rmq : Format choisi par Schema.org
 
 ===↓===
 
-## TP Visualiser du RDF
-
-- http://rdfshape.weso.es
-- https://github.com/tdt/rdf2html
-- https://visgraph3.github.io/index.html
-- https://www.w3.org/RDF/Validator/
-- http://en.lodlive.it
-- http://cytoscape.org
-- http://philogb.github.io/jit/
-
-???
-
-Ee
-
-===↓===
-
-## Resources pour RDF
-
-- [RDF JavaScript Libraries (RDF.js)](https://github.com/rdfjs)
-- [Simpler RDF](https://github.com/simplerdf/simplerdf)
-- [N3.js](https://github.com/rdfjs/N3.js/)
-- [RDF.rb](http://rdf.greggkellogg.net/yard/file.rdf-README.html)
-- [EasyRDF](https://www.easyrdf.org/)
-- 
-
-===→===
-
 ## 2.2 Vocabulaires et ontologies
 
 ===↓===
