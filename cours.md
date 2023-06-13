@@ -122,13 +122,11 @@ Le cours se déroule en trois séances intensives qui associent étroitement la 
 
 ## Sommaire
 
-### 1. Le web de données liées et l’architecture du web
+### 1. Principes du web sémantique et du Linked Open Data
 
-### 2. Principes du web sémantique et du Linked Open Data
+### 3. Le cadre de description RDF, les vocabulaires et les ontologies
 
-### 3. Quelques applications au domaine historique et culturel
-
-### 4. Le cadre de description RDF
+### 4. Exemples d’application à l’édition de sources primaires
 
 ???
 
@@ -2539,7 +2537,7 @@ cf. [WebVOWL: Web-based Visualization of Ontologies](http://vowl.visualdataweb.o
 
 ===→===
 
-# 4. Mettre en œuvre une approche LOD dans mes éditions de sources
+# 4. Exemples d’application à l’édition de sources primaires
 
 ===↓===
 
@@ -2560,6 +2558,13 @@ cf. [WebVOWL: Web-based Visualization of Ontologies](http://vowl.visualdataweb.o
 [Ontologies SIG de la TEI](https://tei-c.org/activities/sig/ontologies/) 
 
 Modèle Factoïd
+
+- Pasin, Michele, et John Bradley. 2015. « Factoid-based prosopography and computer ontologies: towards an integrated approach ». *Digital Scholarship in the Humanities* 30 (1) : 86‑97. https://doi.org/10.1093/llc/fqt037.
+- Schwartz, Daniel L., Nathan P. Gibson, et Katayoun Torabi. 2022. « Modeling a Born-Digital Factoid Prosopography using the TEI and Linked Data ». *Journal of the Text Encoding Initiative*, mars. https://doi.org/10.4000/jtei.3979.
+
+===↓===
+
+## Travaux en cours
 
 ### Prosopographie des membres du Conseil des bâtiments civils
 
